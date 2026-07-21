@@ -7,6 +7,9 @@ An end-to-end, content-based Movie Recommendation Web Application built using **
 ## 📸 Overview & Demo
 
 The application provides a modern, dark-themed dashboard where users can search or select any movie from the TMDB 5000 dataset. Upon clicking **"Show Recommendation"**, the system executes a real-time vector search, retrieves top recommendations, and fetches artwork in parallel using multi-threaded execution.
+## 🚀 Live Demo
+
+Check out the live running application here:
 https://movie-recommendation-model-by-sachin-c.streamlit.app/#recommended-for-fans-of-cavite
 ---
 
